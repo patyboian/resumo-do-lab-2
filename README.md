@@ -1,7 +1,7 @@
 # resumo-do-lab-2
 Resumo do módulo 2 da aula de Azure - DIO
 
-## Resumo da aula
+## Resumo da aula 01
 Nessa aula aprendemos sobre os seguintes tópicos:
 
 ###  Regiões
@@ -26,3 +26,16 @@ São componentes como armazenamento, máquinas virtuais e rede.
 
 ### Tipos de assinatura e seu gerenciamento
 ### Aprendemos também como criar um grupo de recursos e uma rede virtual.
+
+## Resumo da aula 02
+
+Nessa aula aprendemos sobre:
+### Conjuntos de dimensionamentos da VM
+### Conjuntos de disponibilidade da VM
+### Área de Trabalho virtual do Azure
+### Serviços de container
+### Functions
+### Serviços de aplicativos
+### Serviços de rede (Gateway de VPN e ExpressRoute)
+### DNS
+### Aprendemos a como criar uma máquina virtual
